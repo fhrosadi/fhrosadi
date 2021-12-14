@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2f9ff;
+}
+
+#projects {
+    background-color: #e2f9ff;
+}
+
+.carousel-item {
+    background-color: #e2f9ff;
+}
