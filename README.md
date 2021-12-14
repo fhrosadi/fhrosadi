@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Farhan. Nice to meet you.
 
 <!--
 **fhrosadi/fhrosadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
